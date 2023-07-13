@@ -8,7 +8,7 @@ This repository contains a collection of Bash scripts for various purposes.
 
 ### Script 1: `arithmetic.sh`
 
-Description: contains .sh code to performm various arithmetic operations on 2 numbers
+Description: contains .sh code to perform various arithmetic operations on 2 numbers
 
 ### Script 2: `check_filename.sh`
 
@@ -30,4 +30,7 @@ Description: finds the length of the entered string
 
 Description: checks if the given word is a palindrome or not
 
-**GOOD LUCK ON YOUR SCRIPTING!**
+
+
+
+**GOOD LUCK WITH YOUR SCRIPTING!**
