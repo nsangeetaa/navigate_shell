@@ -33,4 +33,4 @@ Description: checks if the given word is a palindrome or not
 
 
 
-**GOOD LUCK WITH YOUR SCRIPTING!**
+_**GOOD LUCK WITH YOUR SCRIPTING!**_
